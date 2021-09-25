@@ -26,7 +26,7 @@ int main() {
 		// if the number of available seats is greater than or equal to
 		// the number of 'x' friends, then calculate the number of ways
 		// that 'x' people can be placed in 'cnt' available seats (combination formula)
-		// afterwards, alculate the sum of the total number of ways in every compartment
+		// afterwards, calculate the sum of the total number of ways in every compartment
 		// lastly, calculate the sum of the total number of ways in every car
 		int last = 53;
 		int cnt = 0;
